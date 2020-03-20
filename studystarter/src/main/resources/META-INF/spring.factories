@@ -1,3 +1,4 @@
 #AutoConfigure
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.liufengfang.study.StudystarterAutoConfigurarion
+  com.liufengfang.study.StudystarterAutoConfigurarion,\
+  com.liufengfang.study.autoconfig.AnotherAutoConfiguration
