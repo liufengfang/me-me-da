@@ -1,6 +1,6 @@
 package com.liufengfang.laputa.web;
 
-import com.liufengfang.study.demo.HelloService;
+import com.liufengfang.study.services.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,6 +1,6 @@
-package com.liufengfang.study.demo.impl;
+package com.liufengfang.study.services.impl;
 
-import com.liufengfang.study.demo.HelloService;
+import com.liufengfang.study.services.HelloService;
 import org.springframework.stereotype.Component;
 
 /**
